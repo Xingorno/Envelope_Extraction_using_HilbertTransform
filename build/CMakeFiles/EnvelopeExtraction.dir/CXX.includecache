@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sxing_l/Documents/UsSimulation/Envelope_Extraction_using_HilbertTransform/src/main.cpp
+iostream
+-
+fftw3.h
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+complex
+-
+
